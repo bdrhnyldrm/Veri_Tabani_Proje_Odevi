@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ioJbjuTQ3MfN6Toc8WFTAURyLay34gIJuW1syjEEh2LPIV2I9i5cZdekgH6azSAnlePQ5hXUriFLAzwRIv8XKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yildi\\Desktop\\uygulama\\Deneme\\Deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yildi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\yildi\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\yildi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

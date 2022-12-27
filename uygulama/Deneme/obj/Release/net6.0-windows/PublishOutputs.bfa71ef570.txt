@@ -1,0 +1,7 @@
+C:\Users\yildi\Desktop\Deneme.exe
+C:\Users\yildi\Desktop\Deneme.dll
+C:\Users\yildi\Desktop\Deneme.deps.json
+C:\Users\yildi\Desktop\Deneme.runtimeconfig.json
+C:\Users\yildi\Desktop\Deneme.pdb
+C:\Users\yildi\Desktop\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yildi\Desktop\Npgsql.dll

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\yildi\Desktop\Uygulama\Deneme\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="EmanetAlma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmanetArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmanetListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KitapListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uyeArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uyeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UyeListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YazarArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YazarEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="YazarListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
